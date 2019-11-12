@@ -1,0 +1,8 @@
+# I'm just writing this out in simple Python, cuz I know how to do that
+
+def main():
+
+name = input("What is your name?")
+print("Hello world, and hello " + name + "!")
+
+main()
